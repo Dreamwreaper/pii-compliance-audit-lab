@@ -5,7 +5,7 @@
 ## 📸 Sample Evidence
 
 ![Splunk Logs](screenshots/splunk-ingestion-success.png)
-![Web App](screenshots/login-page.png)
+![Login Page](screenshots/login-page.png)
 # PII Compliance & GRC Audit Lab
 
 ## Overview
