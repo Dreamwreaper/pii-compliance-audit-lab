@@ -1,0 +1,16 @@
+Control Matrix
+
+IA-2: Identification and Authentication
+Objective: Ensure strong authentication mechanisms (MFA recommended)
+
+AU-2: Audit Events
+Objective: Ensure security-relevant events are logged
+
+AU-6: Audit Review
+Objective: Ensure logs are reviewed and analyzed
+
+SC-8: Transmission Confidentiality
+Objective: Protect data in transit using encryption (TLS)
+
+AC-2: Account Management
+Objective: Ensure proper account creation and access control

@@ -1,0 +1,13 @@
+Findings Summary
+
+F-001 (SC-8): Application is running over HTTP with no TLS encryption.
+Risk: High
+Impact: PII exposure in transit
+
+F-002 (IA-2): MFA is not implemented.
+Risk: Medium
+Impact: Increased risk of account compromise
+
+F-003 (AU-6): No log review or monitoring process is defined.
+Risk: Medium
+Impact: Security events may go undetected

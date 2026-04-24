@@ -1,0 +1,6 @@
+System Name: Customer Support Web Portal
+Purpose: Internal web application used to manage customer account requests
+Data Types Processed: Name, Email, Phone Number, Shipping Address
+Environment: Local lab environment
+Compliance Focus: PII protection, control validation, evidence collection, remediation tracking
+Assessment Framework: NIST SP 800-53 mapped to privacy/compliance objectives

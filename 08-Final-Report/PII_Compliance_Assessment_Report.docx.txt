@@ -1,0 +1,26 @@
+Executive Summary
+
+This assessment evaluated a simulated web application processing personally identifiable information (PII) to determine compliance with security and privacy controls. The review focused on authentication, logging, encryption, and access control mechanisms.
+
+Scope
+System: Web Application (OWASP Juice Shop)
+Data: Email, Name, Password
+Logging Platform: Splunk SIEM
+Environment: Local lab environment
+Methodology
+Collected technical evidence (screenshots, logs, configurations)
+Mapped controls to NIST-based security requirements
+Validated control effectiveness
+Identified gaps and assigned risk levels
+Documented remediation actions
+Key Findings
+SC-8 (Transmission Confidentiality): Application operates over HTTP; no TLS encryption (High Risk)
+IA-2 (Authentication): MFA not implemented (Medium Risk)
+AU-6 (Audit Review): No defined log review process (Medium Risk)
+Recommendations
+Implement HTTPS/TLS encryption
+Enable MFA for user authentication
+Establish log monitoring and review procedures
+Conclusion
+
+This assessment demonstrates the ability to collect, validate, and document technical evidence, identify control deficiencies, and track remediation in a compliance-driven environment.
